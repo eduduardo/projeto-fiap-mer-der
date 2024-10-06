@@ -67,3 +67,13 @@ Este sistema foi projetado para gerenciar e monitorar a irrigação e o uso de v
 ## Imagens do Modelo
 
 ![modelagem](./modelagem.png)
+
+### Modelagem XML
+
+Você pode acessar a modelagem XML através do seguinte link:
+[Modelagem XML](./modelagem.xml)
+
+### Modelagem SQL
+
+Você pode acessar a modelagem SQL através do seguinte link:
+[Modelagem SQL](./banco-de-dados.sql)
